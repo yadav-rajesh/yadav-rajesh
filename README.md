@@ -76,8 +76,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&v=2" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5&v=2" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5&cache_seconds=1800" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+  <a href="https://github.com/yadav-rajesh?tab=overview" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Stats-Open%20Dashboard-2ea44f?style=for-the-badge" alt="Live stats dashboard" />
+  </a>
 </div>
 
 ###
