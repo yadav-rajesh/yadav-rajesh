@@ -76,8 +76,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&v=1" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5&v=1" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&v=2" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5&v=2" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
