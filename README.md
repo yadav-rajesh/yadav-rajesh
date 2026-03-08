@@ -62,6 +62,26 @@
 
 ###
 
+<!-- <h2 align="center">Github Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div> -->
+
+<h2 align="center">Github Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&v=1" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5&v=1" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="center">Socials</h2>
 
 ###
@@ -75,17 +95,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<h2 align="center">Github Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yadav-rajesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-rajesh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
