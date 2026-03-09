@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <a href="https://yadav-rajesh.github.io/" target="_blank">
+  <a href="https://yadav-rajesh-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio link" />
   </a>
 </div>
