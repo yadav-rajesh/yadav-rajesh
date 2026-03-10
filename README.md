@@ -1,10 +1,7 @@
 ###
 
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">My name is Rajesh Yadav, I'm a Software Developer, from Pune, India.</p>
+<h1 align="Center">Rajesh Yadav</h1>
+<h2 align="Center">Full-Stack Software Developer</h2>
 
 ###
 
