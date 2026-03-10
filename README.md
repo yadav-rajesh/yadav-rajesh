@@ -1,7 +1,7 @@
 ###
 
 <h1 align="Center">Rajesh Yadav</h1>
-<h2 align="Center">Full-Stack Software Developer</h2>
+<p align="Center">Full-Stack Software Developer</p>
 
 ###
 
